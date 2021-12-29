@@ -1,0 +1,8 @@
+{
+  "name": "Water Me - Smart Plant Watering Reminders",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "c84223a3"
+}

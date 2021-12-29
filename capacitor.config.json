@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Water Me - Smart Plant Watering Reminders",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
